@@ -7,7 +7,7 @@ var Caml_format = require("bs-platform/lib/js/caml_format.js");
 
 var input = Fs.readFileSync("./src/input/day2.txt", "utf8").split("\n");
 
-var split = Belt_Array.reduce(input, 0, (function (ans, _val) {
+var part1 = Belt_Array.reduce(input, 0, (function (ans, _val) {
         var line = _val.split(" ");
         var range = Belt_Array.map(Belt_Array.getExn(line, 0).split("-"), Caml_format.caml_int_of_string);
         var key = Belt_Array.getExn(line, 1).charAt(0);
@@ -29,8 +29,28 @@ var split = Belt_Array.reduce(input, 0, (function (ans, _val) {
         }
       }));
 
-console.log(split);
+console.log(part1);
+
+var part2 = Belt_Array.reduce(input, 0, (function (ans, _val) {
+        var line = _val.split(" ");
+        var range = Belt_Array.map(Belt_Array.getExn(line, 0).split("-"), Caml_format.caml_int_of_string);
+        var min = Belt_Array.getExn(range, 0) - 1 | 0;
+        var max = Belt_Array.getExn(range, 1) - 1 | 0;
+        var key = Belt_Array.getExn(line, 1).charAt(0);
+        var words = Belt_Array.getExn(line, 2);
+        var arr = Array.from(words, (function (x) {
+                return x;
+              }));
+        if (arr[min] === arr[max] || arr[min] !== key && arr[max] !== key) {
+          return ans;
+        } else {
+          return ans + 1 | 0;
+        }
+      }));
+
+console.log(part2);
 
 exports.input = input;
-exports.split = split;
+exports.part1 = part1;
+exports.part2 = part2;
 /* input Not a pure module */
