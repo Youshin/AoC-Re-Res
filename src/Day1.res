@@ -1,15 +1,13 @@
 open Belt
+let target = 2020
 
-let input = Node.Fs.readFileAsUtf8Sync("./input/input_sample.txt")->Js.String2.split("\n")
-  ->Belt.Array.map(_val => _val->int_of_string)
-  ->Belt.Array.reduce(Js.Dict.empty(), (arr, _val) => {
+let input = Node.Fs.readFileAsUtf8Sync("./src/input/day1.txt")->Js.String2.split("\n")
+  ->Array.map(_val => _val->int_of_string)
+  ->Array.reduce(Js.Dict.empty(), (arr, _val) => {
         arr->Js.Dict.set(_val->string_of_int, _val);
         arr;
       },
     );
-
-let target = 2020
-
 
 // Part 1
 let keys = input->Js.Dict.keys->Js.Array2.map(a=>a->int_of_string)
@@ -24,7 +22,26 @@ let res1 =
       | None => false
     }
   );
-res1->Array.reduce(1, (a, b) => a * b)->Js.log
-
 
 // Part 2
+let keys = input->Js.Dict.keys->Js.Array2.map(a=>a->int_of_string)
+let length = keys->Js.Array2.length
+let res2 = {
+  for i in 0 to length-1 {
+    for j in 1 to length {
+      let v1 = keys->Array.get(i)
+      let v2 = keys->Array.get(j)
+      switch(v1, v2) {
+        | (Some(v1), Some(v2)) => {
+          if v1 + v2 <= 2020 {
+            let v = 2020 - v1 - v2
+            if keys->Js.Array2.includes(v) {
+              Js.log(v1 * v2 * v)
+            }
+          }
+        }
+        | _ => ()
+      }
+    }
+  }
+}

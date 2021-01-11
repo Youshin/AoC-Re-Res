@@ -6,25 +6,44 @@ var Js_dict = require("bs-platform/lib/js/js_dict.js");
 var Belt_Array = require("bs-platform/lib/js/belt_Array.js");
 var Caml_format = require("bs-platform/lib/js/caml_format.js");
 
-var input = Belt_Array.reduce(Belt_Array.map(Fs.readFileSync("./input/input_sample.txt", "utf8").split("\n"), Caml_format.caml_int_of_string), {}, (function (arr, _val) {
+var input = Belt_Array.reduce(Belt_Array.map(Fs.readFileSync("./src/input/day1.txt", "utf8").split("\n"), Caml_format.caml_int_of_string), {}, (function (arr, _val) {
         arr[String(_val)] = _val;
         return arr;
       }));
 
 var keys = Object.keys(input).map(Caml_format.caml_int_of_string);
 
-var part1 = keys.filter(function (key) {
+var res1 = keys.filter(function (key) {
       return Js_dict.get(input, String(2020 - key | 0)) !== undefined;
     });
 
-console.log(Belt_Array.reduce(part1, 1, (function (a, b) {
-            return Math.imul(a, b);
-          })));
+var keys$1 = Object.keys(input).map(Caml_format.caml_int_of_string);
+
+var length = keys$1.length;
+
+for(var i = 0; i < length; ++i){
+  for(var j = 1; j <= length; ++j){
+    var v1 = Belt_Array.get(keys$1, i);
+    var v2 = Belt_Array.get(keys$1, j);
+    if (v1 !== undefined && v2 !== undefined && (v1 + v2 | 0) <= 2020) {
+      var v = (2020 - v1 | 0) - v2 | 0;
+      if (keys$1.includes(v)) {
+        console.log(Math.imul(Math.imul(v1, v2), v));
+      }
+      
+    }
+    
+  }
+}
+
+var res2;
 
 var target = 2020;
 
-exports.input = input;
 exports.target = target;
-exports.keys = keys;
-exports.part1 = part1;
+exports.input = input;
+exports.res1 = res1;
+exports.keys = keys$1;
+exports.length = length;
+exports.res2 = res2;
 /* input Not a pure module */
