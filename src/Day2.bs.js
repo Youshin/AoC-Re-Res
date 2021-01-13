@@ -12,9 +12,7 @@ var part1 = Belt_Array.reduce(input, 0, (function (ans, _val) {
         var range = Belt_Array.map(Belt_Array.getExn(line, 0).split("-"), Caml_format.caml_int_of_string);
         var key = Belt_Array.getExn(line, 1).charAt(0);
         var words = Belt_Array.getExn(line, 2);
-        var arr = Array.from(words, (function (x) {
-                return x;
-              }));
+        var arr = Array.from(words);
         var count = Belt_Array.reduce(arr, 0, (function (count, _val) {
                 if (key === _val) {
                   return count + 1 | 0;

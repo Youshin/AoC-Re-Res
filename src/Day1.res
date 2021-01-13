@@ -23,6 +23,8 @@ let res1 =
     }
   );
 
+// Js.Dict는 Js Interop 할 때 주로 쓰니까, Belt Map 같은 걸 이용해보면 좋다.
+
 // Part 2
 let keys = input->Js.Dict.keys->Js.Array2.map(a=>a->int_of_string)
 let length = keys->Js.Array2.length
