@@ -14,4 +14,8 @@ let res1 = mapOfInput->Map.String.reduce((0, 0), (acc, _, v) => {
   }
 })
 
+// reduce를 끝까지 안돌기 위해서
+// 1. rec 함수
+// 2. findFirstBy https://rescript-lang.org/docs/manual/v8.0.0/api/belt/map-string#findfirstby
+
 res1->Js.log

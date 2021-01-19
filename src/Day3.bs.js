@@ -17,85 +17,90 @@ var height = input.length;
 
 var width = Belt_Array.getExn(input, 0).length;
 
+function move(a, b) {
+  return {
+          x: a.x + b.x | 0,
+          y: a.y + b.y | 0
+        };
+}
+
 var slopes = [
-  [
-    1,
-    1
-  ],
-  [
-    3,
-    1
-  ],
-  [
-    5,
-    1
-  ],
-  [
-    7,
-    1
-  ],
-  [
-    1,
-    2
-  ]
+  {
+    x: 1,
+    y: 1
+  },
+  {
+    x: 3,
+    y: 1
+  },
+  {
+    x: 5,
+    y: 1
+  },
+  {
+    x: 7,
+    y: 1
+  },
+  {
+    x: 1,
+    y: 2
+  }
 ];
 
 function validate(ch) {
   return ch === "#";
 }
 
-function traverse(slope, _param, _acc) {
+function traverse(slope, _coord, _acc) {
   while(true) {
-    var param = _param;
     var acc = _acc;
-    var curr_y = param[1];
-    var curr_x = param[0];
-    var index = Caml_int32.mod_(curr_x, width) + Math.imul(curr_y, width) | 0;
+    var coord = _coord;
+    var index = Caml_int32.mod_(coord.x, width) + Math.imul(coord.y, width) | 0;
     var _val = Belt_Array.get(parsed_input, index);
     if (_val === undefined) {
       return acc;
     }
     var new_acc = acc + _val;
     _acc = new_acc;
-    _param = [
-      curr_x + slope[0] | 0,
-      curr_y + slope[1] | 0
-    ];
+    _coord = move(slope, coord);
     continue ;
   };
 }
 
-console.log(Array.from(traverse([
-                3,
-                1
-              ], [
-                0,
-                0
-              ], ""), (function (x) {
-              return x;
-            })).filter(validate).length);
+function solution(item) {
+  return Array.from(traverse(item, {
+                    x: 0,
+                    y: 0
+                  }, ""), (function (x) {
+                  return x;
+                })).filter(validate).length;
+}
 
-console.log(Belt_Array.reduce(slopes, 1.0, (function (acc, item) {
-            return acc * Array.from(traverse(item, [
-                              0,
-                              0
-                            ], ""), (function (x) {
-                            return x;
-                          })).filter(validate).length;
-          })));
+var part1 = solution({
+      x: 3,
+      y: 1
+    });
 
-var part1;
+var part2 = Belt_Array.reduce(Belt_Array.map(Belt_Array.map(slopes, solution), (function (v) {
+            return v;
+          })), 1.0, (function (acc, item) {
+        return acc * item;
+      }));
 
-var part2;
+console.log(part1);
+
+console.log(part2);
 
 exports.input = input;
 exports.parsed_input = parsed_input;
 exports.length = length;
 exports.height = height;
 exports.width = width;
+exports.move = move;
 exports.slopes = slopes;
 exports.validate = validate;
 exports.traverse = traverse;
+exports.solution = solution;
 exports.part1 = part1;
 exports.part2 = part2;
 /* input Not a pure module */
