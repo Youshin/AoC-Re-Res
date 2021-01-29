@@ -62,6 +62,21 @@ module IntSummation = Summation({
     }
 });
 
+module FloatOp = {
+    type t = float;
+    let add = (a:t, b:t) => a +. b;
+    let substract = (a:t, b:t) => a -. b;
+    let compare = (a:t, b:t) => a == b;
+    let max_arr = arr => ArrayLabels.fold_left(~f=max, ~init=min_float, arr);
+    let min_arr = arr => ArrayLabels.fold_left(~f=min, ~init=max_float, arr);
+    let summation = arr => {
+        arr->Array.reduce(0.0, (acc, item) => {
+            acc +. item;
+        });
+    };
+}
+
+module FloatSummation = Summation(FloatOp);
 // module StringSummation = Summation({
 //     type t = int;
 //     let add = (a:t, b:t) => (a->string_of_int ++ b->string_of_int)->int_of_string;

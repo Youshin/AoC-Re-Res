@@ -6,38 +6,16 @@ let input =
 
 let preambleSize = 25;
 
-module FloatOp = {
-    type t = float;
-    let add = (a:t, b:t) => a +. b;
-    let substract = (a:t, b:t) => a -. b;
-    let compare = (a:t, b:t) => a == b;
-    let max_arr = arr => ArrayLabels.fold_left(~f=max, ~init=min_float, arr);
-    let min_arr = arr => ArrayLabels.fold_left(~f=min, ~init=max_float, arr);
-    let summation = arr => {
-        arr->Array.reduce(0.0, (acc, item) => {
-            acc +. item;
-        });
-    };
-}
-
-module FloatSummation = Summation(FloatOp);
-
 let parse = (input: array(string)) => {
     input->Array.mapWithIndex( (idx ,x) => {
         input->Array.slice(~offset=idx, ~len=preambleSize)
         ->Array.map(str => str->float_of_string)
-        // ->Array.map(x => x->float_of_int);
     })->Array.keep(x => x->Array.size == preambleSize);
 }
-
-// input->Js.log
 
 let parsed = input->parse;
 let targets_p1 = input->Array.sliceToEnd(preambleSize)
 ->Array.map(x => x->float_of_string);
-
-// parsed->Js.log
-// targets->Js.log
 
 let solve = (targets) => {
     targets->Array.reduceWithIndex([||], (acc, target, idx) => {
@@ -52,8 +30,7 @@ let solve = (targets) => {
     })->Array.getExn(0);
 }
 
-// part1 log
-// targets_p1->solve->Js.log;
+let part1 = solve(targets_p1)->Js.log;
 
 let targets_p2 = input->Array.map(x => x->float_of_string);
 let p2_len = targets_p2->Array.length;
@@ -71,7 +48,7 @@ let init = {
     endIndex: 0,
     sum: 0.0
 };
-// targets_p2->Js.log;
+
 let rec findWeakness = (state, target) => {
     if (state.target == state.sum) {
         let sliced = target->Array.slice(~offset=state.startIndex, ~len=state.endIndex - state.startIndex);
@@ -87,4 +64,4 @@ let rec findWeakness = (state, target) => {
     }
 }
 
-findWeakness(init, targets_p2)->Js.log;
+let part2 = findWeakness(init, targets_p2)->Js.log;
