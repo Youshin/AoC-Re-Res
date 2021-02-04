@@ -7,7 +7,7 @@ let input =
 let preambleSize = 25;
 
 let parse = (input: array(string)) => {
-    input->Array.mapWithIndex( (idx ,x) => {
+    input->Array.mapWithIndex( (idx ,_) => {
         input->Array.slice(~offset=idx, ~len=preambleSize)
         ->Array.map(str => str->float_of_string)
     })->Array.keep(x => x->Array.size == preambleSize);
