@@ -1,0 +1,6309 @@
+{
+  location: { x: 0, y: 0 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 1 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 1 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 1 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 4 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: 4 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 4 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 4 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 6 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 6 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 6 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 6 }
+}
+{
+  location: { x: 879, y: 553 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 6 }
+}
+{
+  location: { x: 879, y: 553 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 8 }
+}
+{
+  location: { x: 879, y: 553 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 8 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 8 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 4 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 4 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 3 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 3 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 0 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: 0 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -1 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -1 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -1 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -4 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: -4 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -292, y: -193 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -292, y: -193 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -1 }
+}
+{
+  location: { x: -366, y: -859 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -1 }
+}
+{
+  location: { x: -366, y: -859 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 0 }
+}
+{
+  location: { x: -366, y: -1039 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 0 }
+}
+{
+  location: { x: -366, y: -1039 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -3 }
+}
+{
+  location: { x: -462, y: -1327 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -3 }
+}
+{
+  location: { x: -462, y: -1327 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -2 }
+}
+{
+  location: { x: -462, y: -1327 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -633, y: -1289 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -633, y: -1289 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -6 }
+}
+{
+  location: { x: -633, y: -1289 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -6 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -6 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -6 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -7 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: -7 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: -2 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -2 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -2 }
+}
+{
+  location: { x: -1403, y: -953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -2 }
+}
+{
+  location: { x: -1403, y: -953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -2 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -2 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -5 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -5 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -6 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -6 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -1 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -1 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -2 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 15, y: -2 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 15, y: -1 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 15, y: -1 }
+}
+{
+  location: { x: -937, y: -249 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 15, y: -1 }
+}
+{
+  location: { x: -937, y: -249 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 17, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 17, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 17, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: 2 }
+}
+{
+  location: { x: -1211, y: -583 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: 2 }
+}
+{
+  location: { x: -1211, y: -583 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -3 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -3 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 7, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -2721, y: 42 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -2721, y: 42 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -6 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 11, y: -6 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -6 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -9 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -8 }
+}
+{
+  location: { x: -2811, y: 691 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -8 }
+}
+{
+  location: { x: -2811, y: 691 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -8 }
+}
+{
+  location: { x: -2451, y: 871 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -8 }
+}
+{
+  location: { x: -2451, y: 871 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -8 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -8 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: -8 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: -7 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -1, y: -7 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: -7 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: -4 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -4 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -1 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -1 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -1 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: -1 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: -1 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 7, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 11, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 16, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 19, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 22, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 22, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 22, y: 7 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 7 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 10 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 10 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 11 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 19, y: 11 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 19, y: 8 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 19, y: 8 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 19, y: 13 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 22, y: 13 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 13 }
+}
+{
+  location: { x: -1851, y: 2406 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 13 }
+}
+{
+  location: { x: -1851, y: 2406 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 22, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 22, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 17, y: 11 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 17, y: 11 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 11 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 12 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 12 }
+}
+{
+  location: { x: -2994, y: 4383 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 12 }
+}
+{
+  location: { x: -2994, y: 4383 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 12 }
+}
+{
+  location: { x: -2994, y: 4383 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 10 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 10 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 10 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 13 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: 13 }
+}
+{
+  location: { x: -2897, y: 6570 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: 13 }
+}
+{
+  location: { x: -2897, y: 6570 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 13 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 13 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 5, y: 13 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 5, y: 12 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 2, y: 12 }
+}
+{
+  location: { x: -4154, y: 6747 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 2, y: 12 }
+}
+{
+  location: { x: -4154, y: 6747 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 12 }
+}
+{
+  location: { x: -3194, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 12 }
+}
+{
+  location: { x: -3194, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 12 }
+}
+{
+  location: { x: -2162, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 0, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 1, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 1, y: 9 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -2, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -3, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -3, y: 5 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -3, y: 5 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -3, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -3, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 10 }
+}
+{
+  location: { x: -2232, y: 6300 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 10 }
+}
+{
+  location: { x: -2232, y: 6300 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 10 }
+}
+{
+  location: { x: -2356, y: 6610 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 10 }
+}
+{
+  location: { x: -2356, y: 6610 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 8 }
+}
+{
+  location: { x: -2356, y: 6610 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -1, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 11 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: 11 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: 16 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: 16 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 16 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 14 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 0, y: 14 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 14 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 13 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 13 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 12 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 12 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 15 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 15 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 18 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 18 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 17 }
+}
+{
+  location: { x: -2858, y: 6421 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 17 }
+}
+{
+  location: { x: -2858, y: 6421 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 17 }
+}
+{
+  location: { x: -2943, y: 6446 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 17 }
+}
+{
+  location: { x: -2943, y: 6446 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 22 }
+}
+{
+  location: { x: -3515, y: 6576 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 22 }
+}
+{
+  location: { x: -3515, y: 6576 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 18 }
+}
+{
+  location: { x: -3515, y: 6576 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 18 }
+}
+{
+  location: { x: -4487, y: 6792 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 18 }
+}
+{
+  location: { x: -4487, y: 6792 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 18 }
+}
+{
+  location: { x: -4487, y: 6792 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: 18 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: 18 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 18 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 17 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 17 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 17 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -5, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 14 }
+}
+{
+  location: { x: -3467, y: 7958 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 14 }
+}
+{
+  location: { x: -3467, y: 7958 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 14 }
+}
+{
+  location: { x: -3807, y: 9148 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 14 }
+}
+{
+  location: { x: -3807, y: 9148 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 12 }
+}
+{
+  location: { x: -3807, y: 9148 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 12 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 12 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 8 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 8 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 8 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 8 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 8 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 5 }
+}
+{
+  location: { x: -4076, y: 10641 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 5 }
+}
+{
+  location: { x: -4076, y: 10641 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 5 }
+}
+{
+  location: { x: -3916, y: 10705 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 5 }
+}
+{
+  location: { x: -3916, y: 10705 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -2, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 7 }
+}
+{
+  location: { x: -3421, y: 10081 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 7 }
+}
+{
+  location: { x: -3421, y: 10081 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 7 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 7 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 7 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 10 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 10 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 14 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 14 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 19 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 19 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: 15 }
+}
+{
+  location: { x: -4597, y: 9423 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: 15 }
+}
+{
+  location: { x: -4597, y: 9423 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 15 }
+}
+{
+  location: { x: -4597, y: 9423 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 15 }
+}
+{
+  location: { x: -4822, y: 9468 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 15 }
+}
+{
+  location: { x: -4822, y: 9468 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 16 }
+}
+{
+  location: { x: -5622, y: 9618 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 16 }
+}
+{
+  location: { x: -5622, y: 9618 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 6, y: 16 }
+}
+{
+  location: { x: -5622, y: 9618 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 16 }
+}
+{
+  location: { x: -5538, y: 9842 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 16 }
+}
+{
+  location: { x: -5538, y: 9842 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 6, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 19 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 1, y: 19 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 19 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 19 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 20 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 20 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 1, y: 20 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 1, y: 18 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 19 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 24 }
+}
+{
+  location: { x: -3266, y: 9391 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 24 }
+}
+{
+  location: { x: -3266, y: 9391 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -1, y: 24 }
+}
+{
+  location: { x: -3266, y: 9391 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 24 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 24 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 22 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 22 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 20 }
+}
+{
+  location: { x: -3371, y: 6966 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 20 }
+}
+{
+  location: { x: -3371, y: 6966 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 18 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 18 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 13 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 13 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 9 }
+}
+{
+  location: { x: -4739, y: 6151 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 9 }
+}
+{
+  location: { x: -4739, y: 6151 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 10 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 10 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 14 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 14 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 11 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: 11 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: 11 }
+}
+{
+  location: { x: -3683, y: 6789 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: 11 }
+}
+{
+  location: { x: -3683, y: 6789 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 11 }
+}
+{
+  location: { x: -3232, y: 7199 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 11 }
+}
+{
+  location: { x: -3232, y: 7199 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 6 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 6 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 5 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 5 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 7 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 3 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -3, y: 3 }
+}
+{
+  location: { x: -3239, y: 6947 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -3, y: 3 }
+}
+{
+  location: { x: -3239, y: 6947 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -3, y: 5 }
+}
+{
+  location: { x: -3239, y: 6947 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 5 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 5 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 5 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 3 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 3 }
+}
+{
+  location: { x: -3220, y: 6940 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 3 }
+}
+{
+  location: { x: -3220, y: 6940 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: 3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: 3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -2 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -2 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -7 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -7 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -5 }
+}
+{
+  location: { x: -3109, y: 7274 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -5 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -5 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -9, y: -5 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -9, y: -1 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -1 }
+}
+{
+  location: { x: -2641, y: 7606 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -1 }
+}
+{
+  location: { x: -2641, y: 7606 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -7, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -7, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -5 }
+}
+{
+  location: { x: -3783, y: 6921 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -5 }
+}
+{
+  location: { x: -3783, y: 6921 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -8 }
+}
+{
+  location: { x: -3567, y: 7209 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -8 }
+}
+{
+  location: { x: -3567, y: 7209 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -8 }
+}
+{
+  location: { x: -3583, y: 7221 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -8 }
+}
+{
+  location: { x: -3583, y: 7221 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: -8 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: -8 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -10, y: -8 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -10, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: -7 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -7 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -8, y: -7 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -8, y: -11 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -11 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -10 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: -10 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -10 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -3, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -3, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -10 }
+}
+{
+  location: { x: -3485, y: 6655 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -10 }
+}
+{
+  location: { x: -3485, y: 6655 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -7 }
+}
+{
+  location: { x: -3485, y: 6655 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 3, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 3, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -11, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -11, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -11, y: -2 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: -1 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: -1 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -1 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -2 }
+}
+{
+  location: { x: -2627, y: 6580 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -2 }
+}
+{
+  location: { x: -2627, y: 6580 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -2 }
+}
+{
+  location: { x: -2627, y: 6580 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -5 }
+}
+{
+  location: { x: -3339, y: 6135 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -5 }
+}
+{
+  location: { x: -3339, y: 6135 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -5 }
+}
+{
+  location: { x: -3129, y: 5799 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -5 }
+}
+{
+  location: { x: -3129, y: 5799 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -11, y: -5 }
+}
+{
+  location: { x: -3129, y: 5799 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: -5 }
+}
+{
+  location: { x: -3589, y: 6811 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: -5 }
+}
+{
+  location: { x: -3589, y: 6811 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: -5 }
+}
+{
+  location: { x: -4117, y: 6571 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: -5 }
+}
+{
+  location: { x: -4238, y: 6516 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: -5 }
+}
+{
+  location: { x: -4238, y: 6516 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -13, y: -5 }
+}
+{
+  location: { x: -4238, y: 6516 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -13, y: -2 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -14, y: -2 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -14, y: -4 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -14, y: -4 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -14, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -13, y: -9 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -12, y: -9 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -12, y: -9 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -12, y: -11 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -17, y: -11 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -16, y: -11 }
+}
+{
+  location: { x: -5071, y: 5837 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -16, y: -11 }
+}
+{
+  location: { x: -5071, y: 5837 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -4303, y: 6365 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -4303, y: 6365 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -19, y: -11 }
+}
+{
+  location: { x: -4246, y: 6398 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -19, y: -11 }
+}
+{
+  location: { x: -4246, y: 6398 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -3062, y: 7212 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -3062, y: 7212 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -16, y: -11 }
+}
+{
+  location: { x: -2644, y: 6604 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -16, y: -11 }
+}
+{
+  location: { x: -2644, y: 6604 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -16, y: -11 }
+}
+{
+  location: { x: -2644, y: 6604 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -14, y: -11 }
+}
+{
+  location: { x: -3557, y: 7766 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -14, y: -11 }
+}
+{
+  location: { x: -3557, y: 7766 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -15, y: -11 }
+}
+{
+  location: { x: -4415, y: 8936 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -15, y: -11 }
+}
+{
+  location: { x: -4415, y: 8936 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -15, y: -11 }
+}
+{
+  location: { x: -4415, y: 8936 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -15, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -15, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -18, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -20, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -20, y: -6 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -20, y: -6 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -18, y: -6 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -18, y: -10 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -18, y: -10 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -18, y: -15 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -13, y: -15 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -14, y: -15 }
+}
+{
+  location: { x: -3898, y: 9880 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -14, y: -15 }
+}
+{
+  location: { x: -3898, y: 9880 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -15 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -15 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -13 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -7, y: -13 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -7, y: -13 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -11 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -11 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -10 }
+}
+{
+  location: { x: -4108, y: 11412 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -10 }
+}
+{
+  location: { x: -4108, y: 11412 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -10 }
+}
+{
+  location: { x: -4258, y: 11547 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -10 }
+}
+{
+  location: { x: -4258, y: 11547 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -13 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -10 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: -10 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: -5 }
+}
+{
+  location: { x: -4160, y: 11922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: -5 }
+}
+{
+  location: { x: -4160, y: 11922 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -5 }
+}
+{
+  location: { x: -4160, y: 11922 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -7 }
+}
+{
+  location: { x: -3579, y: 11590 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -7 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -7 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -2, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -2, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -15 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -15 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -15 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -12 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -12 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -10 }
+}
+{
+  location: { x: -3726, y: 10099 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -10 }
+}
+{
+  location: { x: -3726, y: 10099 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: -10 }
+}
+{
+  location: { x: -3726, y: 10099 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: -10 }
+}
+{
+  location: { x: -3496, y: 10168 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: -10 }
+}
+{
+  location: { x: -3496, y: 10168 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: -10 }
+}
+{
+  location: { x: -3496, y: 10168 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 7, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -7 }
+}
+{
+  location: { x: -4604, y: 11113 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -7 }
+}
+{
+  location: { x: -4604, y: 11113 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -12 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -12 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -11 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 14, y: -11 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -15 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -15 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 8, y: -15 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -7469, y: 10680 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -7469, y: 10680 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -15 }
+}
+{
+  location: { x: -7685, y: 11085 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -15 }
+}
+{
+  location: { x: -7685, y: 11085 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -15 }
+}
+{
+  location: { x: -7685, y: 11085 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -15 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -16 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -16 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -16 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: -16 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: -21 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 6, y: -21 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 11, y: -21 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -23 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -23 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -21 }
+}
+{
+  location: { x: -7768, y: 6688 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -21 }
+}
+{
+  location: { x: -7768, y: 6688 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -21 }
+}
+{
+  location: { x: -7306, y: 6974 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -21 }
+}
+{
+  location: { x: -7306, y: 6974 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 11, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -12 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 11, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 11, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -7 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -7 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6185, y: 7087 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6185, y: 7087 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6372, y: 6934 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6372, y: 6934 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -11 }
+}
+{
+  location: { x: -6444, y: 7022 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -11 }
+}
+{
+  location: { x: -6444, y: 7022 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -11 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -13 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -13 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -14 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -14 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -9 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -9 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -6 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -6 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -5 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -5 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -5146, y: 5495 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -5146, y: 5495 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -2 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -7 }
+}
+{
+  location: { x: -6775, y: 6360 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -7 }
+}
+{
+  location: { x: -6775, y: 6360 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -7 }
+}
+{
+  location: { x: -6375, y: 6010 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -7 }
+}
+{
+  location: { x: -6375, y: 6010 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -7 }
+}
+{
+  location: { x: -6214, y: 5849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -7 }
+}
+{
+  location: { x: -6214, y: 5849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -9 }
+}
+{
+  location: { x: -6214, y: 5849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -9 }
+}
+{
+  location: { x: -5944, y: 5579 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -9 }
+}
+{
+  location: { x: -5944, y: 5579 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: -9 }
+}
+{
+  location: { x: -5944, y: 5579 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5233, y: 6527 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5233, y: 6527 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 12, y: -9 }
+}
+{
+  location: { x: -6043, y: 5447 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 12, y: -9 }
+}
+{
+  location: { x: -6043, y: 5447 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5314, y: 6419 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5314, y: 6419 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 12, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: -6 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: -6 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -6 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -1 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -1 }
+}
+{
+  location: { x: -3397, y: 5690 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -1 }
+}
+{
+  location: { x: -3397, y: 5690 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -4 }
+}
+{
+  location: { x: -2539, y: 5426 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -4 }
+}
+{
+  location: { x: -2539, y: 5426 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -9 }
+}
+{
+  location: { x: -1460, y: 4679 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -9 }
+}
+{
+  location: { x: -1460, y: 4679 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -9 }
+}
+{
+  location: { x: -1325, y: 4874 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -9 }
+}
+{
+  location: { x: -1325, y: 4874 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -9 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -9 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -9 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 18, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -7 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: -7 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: -7 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -7 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -11 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 16, y: -11 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: -11 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -14 }
+}
+{
+  location: { x: 119, y: 5674 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -14 }
+}
+{
+  location: { x: 119, y: 5674 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -16 }
+}
+{
+  location: { x: 119, y: 5674 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 8, y: -16 }
+}
+{
+  location: { x: 151, y: 5690 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 8, y: -16 }
+}
+{
+  location: { x: 151, y: 5690 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -16 }
+}
+{
+  location: { x: 527, y: 4938 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -16 }
+}
+{
+  location: { x: 527, y: 4938 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -21 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -21 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -26 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -26 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -24 }
+}
+{
+  location: { x: 1545, y: 2475 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -24 }
+}
+{
+  location: { x: 1545, y: 2475 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -26 }
+}
+{
+  location: { x: 1545, y: 2475 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -26 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -26 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -26 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -27 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 18, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 22, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 22, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 27, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 27, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 27, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 27, y: -37 }
+}
+{
+  location: { x: 5971, y: 1038 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 27, y: -37 }
+}
+{
+  location: { x: 5971, y: 1038 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 32, y: -37 }
+}
+{
+  location: { x: 7603, y: -849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 32, y: -37 }
+}
+{
+  location: { x: 7603, y: -849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 33, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 33, y: -40 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -40 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -41 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -43 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -39 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -39 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 12846, y: -6264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 12846, y: -6264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -35 }
+}
+{
+  location: { x: 12846, y: -6264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 13143, y: -6579 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -31 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -31 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -27 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -27 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -27 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -22 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -22 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -25 }
+}
+{
+  location: { x: 14021, y: -11511 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -25 }
+}
+{
+  location: { x: 14021, y: -11511 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -27 }
+}
+{
+  location: { x: 14021, y: -11511 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 35, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -29 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -29 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -34 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -34 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -34 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 36, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 32, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 32, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 32, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 36, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 36, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 38, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 39, y: -35 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 39, y: -35 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 38, y: -35 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 38, y: -40 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 40, y: -40 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 44, y: -40 }
+}
+{
+  location: { x: 11596, y: -13692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 44, y: -40 }
+}
+{
+  location: { x: 11596, y: -13692 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 44, y: -40 }
+}
+{
+  location: { x: 11596, y: -13692 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 11476, y: -13830 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 11476, y: -13830 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 46, y: -40 }
+}
+{
+  location: { x: 11154, y: -13550 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 46, y: -40 }
+}
+{
+  location: { x: 11154, y: -13550 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 8914, y: -16126 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 8914, y: -16126 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 47, y: -40 }
+}
+{
+  location: { x: 8914, y: -16126 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -40 }
+}
+{
+  location: { x: 12204, y: -18926 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -40 }
+}
+{
+  location: { x: 15541, y: -21766 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -40 }
+}
+{
+  location: { x: 15541, y: -21766 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -37 }
+}
+{
+  location: { x: 20053, y: -25318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -37 }
+}
+{
+  location: { x: 20053, y: -25318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 47, y: -37 }
+}
+{
+  location: { x: 17981, y: -27950 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 47, y: -37 }
+}
+{
+  location: { x: 17981, y: -27950 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 43, y: -37 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 43, y: -37 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -37 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -42 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -42 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -40 }
+}
+{
+  location: { x: 10829, y: -35858 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -40 }
+}
+{
+  location: { x: 10829, y: -35858 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -40 }
+}
+{
+  location: { x: 10829, y: -35858 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -40 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -40 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -39 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 41, y: -39 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 41, y: -39 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 41, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 41, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 46, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -41 }
+}
+{
+  location: { x: 11609, y: -35381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -41 }
+}
+{
+  location: { x: 11609, y: -35381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -41 }
+}
+{
+  location: { x: 11609, y: -35381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -44 }
+}
+{
+  location: { x: 11477, y: -35495 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -44 }
+}
+{
+  location: { x: 11477, y: -35495 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -39 }
+}
+{
+  location: { x: 0, y: 0 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 1 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 1 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 1 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 4 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: 4 }
+}
+{
+  location: { x: 120, y: 12 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 4 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 4 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: 6 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 6 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 6 }
+}
+{
+  location: { x: 957, y: 384 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 6 }
+}
+{
+  location: { x: 879, y: 553 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 6 }
+}
+{
+  location: { x: 879, y: 553 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 8 }
+}
+{
+  location: { x: 879, y: 553 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 8 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 8 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 4 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 4 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 5 }
+}
+{
+  location: { x: 671, y: 425 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 3 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 3 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: 0 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: 0 }
+}
+{
+  location: { x: -130, y: 158 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -1 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -1 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -1 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -4 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: -4 }
+}
+{
+  location: { x: -128, y: 176 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -292, y: -193 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -292, y: -193 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -1 }
+}
+{
+  location: { x: -366, y: -859 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -1 }
+}
+{
+  location: { x: -366, y: -859 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 0 }
+}
+{
+  location: { x: -366, y: -1039 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: 0 }
+}
+{
+  location: { x: -366, y: -1039 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -3 }
+}
+{
+  location: { x: -462, y: -1327 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -3 }
+}
+{
+  location: { x: -462, y: -1327 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -2 }
+}
+{
+  location: { x: -462, y: -1327 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -633, y: -1289 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -633, y: -1289 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -6 }
+}
+{
+  location: { x: -633, y: -1289 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -6 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -6 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -6 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -7 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: -7 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: -2 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -2 }
+}
+{
+  location: { x: -1043, y: -1043 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -2 }
+}
+{
+  location: { x: -1403, y: -953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -2 }
+}
+{
+  location: { x: -1403, y: -953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -2 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -2 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -5 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -5 }
+}
+{
+  location: { x: -1267, y: -987 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -6 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -6 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -1 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -1 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -2 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 15, y: -2 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 15, y: -1 }
+}
+{
+  location: { x: -997, y: -1149 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 15, y: -1 }
+}
+{
+  location: { x: -937, y: -249 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 15, y: -1 }
+}
+{
+  location: { x: -937, y: -249 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 17, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 17, y: -1 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 17, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: 3 }
+}
+{
+  location: { x: -955, y: -519 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: 2 }
+}
+{
+  location: { x: -1211, y: -583 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: 2 }
+}
+{
+  location: { x: -1211, y: -583 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -3 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -3 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 7, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -1 }
+}
+{
+  location: { x: -1875, y: -334 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -2721, y: 42 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -2721, y: 42 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -1 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -6 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 11, y: -6 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -6 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -9 }
+}
+{
+  location: { x: -3459, y: 124 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -8 }
+}
+{
+  location: { x: -2811, y: 691 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -8 }
+}
+{
+  location: { x: -2811, y: 691 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -8 }
+}
+{
+  location: { x: -2451, y: 871 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -8 }
+}
+{
+  location: { x: -2451, y: 871 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -8 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -8 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: -8 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: -7 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -1, y: -7 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: -7 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: -4 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -4 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -1 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -1 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -1 }
+}
+{
+  location: { x: -2247, y: 463 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: -1 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: -1 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 7, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 11, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 16, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: 3 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 19, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 22, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 22, y: 6 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 22, y: 7 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 7 }
+}
+{
+  location: { x: -2334, y: -146 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 10 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 10 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: 11 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 19, y: 11 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 19, y: 8 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 19, y: 8 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 19, y: 13 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 22, y: 13 }
+}
+{
+  location: { x: -889, y: 704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 13 }
+}
+{
+  location: { x: -1851, y: 2406 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 13 }
+}
+{
+  location: { x: -1851, y: 2406 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 23, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 22, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 22, y: 11 }
+}
+{
+  location: { x: -2720, y: 4223 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 17, y: 11 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 17, y: 11 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 11 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: 12 }
+}
+{
+  location: { x: -4216, y: 3255 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 12 }
+}
+{
+  location: { x: -2994, y: 4383 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 12 }
+}
+{
+  location: { x: -2994, y: 4383 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 12 }
+}
+{
+  location: { x: -2994, y: 4383 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 7 }
+}
+{
+  location: { x: -3547, y: 5410 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 10 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: 10 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 10 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: 13 }
+}
+{
+  location: { x: -2468, y: 6240 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: 13 }
+}
+{
+  location: { x: -2897, y: 6570 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: 13 }
+}
+{
+  location: { x: -2897, y: 6570 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 13 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 13 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 5, y: 13 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 5, y: 12 }
+}
+{
+  location: { x: -4106, y: 7035 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 2, y: 12 }
+}
+{
+  location: { x: -4154, y: 6747 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 2, y: 12 }
+}
+{
+  location: { x: -4154, y: 6747 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 12 }
+}
+{
+  location: { x: -3194, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 12 }
+}
+{
+  location: { x: -3194, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 12 }
+}
+{
+  location: { x: -2162, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 0, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 1, y: 12 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 1, y: 9 }
+}
+{
+  location: { x: -2078, y: 6587 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -2, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -3, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -3, y: 5 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -3, y: 5 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -3, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -3, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 9 }
+}
+{
+  location: { x: -2032, y: 6380 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 10 }
+}
+{
+  location: { x: -2232, y: 6300 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 10 }
+}
+{
+  location: { x: -2232, y: 6300 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 10 }
+}
+{
+  location: { x: -2356, y: 6610 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 10 }
+}
+{
+  location: { x: -2356, y: 6610 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 8 }
+}
+{
+  location: { x: -2356, y: 6610 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -1, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 8 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 11 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: 11 }
+}
+{
+  location: { x: -2192, y: 6282 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: 16 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: 16 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 16 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 0, y: 14 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 0, y: 14 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 14 }
+}
+{
+  location: { x: -1760, y: 6201 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 13 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 13 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 5, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 7, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 10 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 12 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 12 }
+}
+{
+  location: { x: -1715, y: 6318 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 15 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 15 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 18 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 18 }
+}
+{
+  location: { x: -2195, y: 6382 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 17 }
+}
+{
+  location: { x: -2858, y: 6421 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 17 }
+}
+{
+  location: { x: -2858, y: 6421 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 17 }
+}
+{
+  location: { x: -2943, y: 6446 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 17 }
+}
+{
+  location: { x: -2943, y: 6446 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 22 }
+}
+{
+  location: { x: -3515, y: 6576 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 22 }
+}
+{
+  location: { x: -3515, y: 6576 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: 18 }
+}
+{
+  location: { x: -3515, y: 6576 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 18 }
+}
+{
+  location: { x: -4487, y: 6792 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 18 }
+}
+{
+  location: { x: -4487, y: 6792 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 18 }
+}
+{
+  location: { x: -4487, y: 6792 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: 18 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: 18 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 18 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 17 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 17 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 17 }
+}
+{
+  location: { x: -4537, y: 7692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -5, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 17 }
+}
+{
+  location: { x: -4517, y: 7658 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 14 }
+}
+{
+  location: { x: -3467, y: 7958 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 14 }
+}
+{
+  location: { x: -3467, y: 7958 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 14 }
+}
+{
+  location: { x: -3807, y: 9148 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 14 }
+}
+{
+  location: { x: -3807, y: 9148 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 12 }
+}
+{
+  location: { x: -3807, y: 9148 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 12 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 12 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 8 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 8 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 6 }
+}
+{
+  location: { x: -4551, y: 10264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 8 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 8 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 8 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 5 }
+}
+{
+  location: { x: -4081, y: 10640 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 5 }
+}
+{
+  location: { x: -4076, y: 10641 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 5 }
+}
+{
+  location: { x: -4076, y: 10641 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 5 }
+}
+{
+  location: { x: -3916, y: 10705 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 5 }
+}
+{
+  location: { x: -3916, y: 10705 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -2, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -2, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 5 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 7 }
+}
+{
+  location: { x: -3797, y: 10739 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 7 }
+}
+{
+  location: { x: -3421, y: 10081 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 7 }
+}
+{
+  location: { x: -3421, y: 10081 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 7 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: 7 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 7 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 10 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 10 }
+}
+{
+  location: { x: -3967, y: 9769 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 14 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 14 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 19 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 19 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: 17 }
+}
+{
+  location: { x: -4485, y: 9843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: 15 }
+}
+{
+  location: { x: -4597, y: 9423 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 4, y: 15 }
+}
+{
+  location: { x: -4597, y: 9423 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: 15 }
+}
+{
+  location: { x: -4597, y: 9423 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 15 }
+}
+{
+  location: { x: -4822, y: 9468 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 15 }
+}
+{
+  location: { x: -4822, y: 9468 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 16 }
+}
+{
+  location: { x: -5622, y: 9618 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: 16 }
+}
+{
+  location: { x: -5622, y: 9618 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 6, y: 16 }
+}
+{
+  location: { x: -5622, y: 9618 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 16 }
+}
+{
+  location: { x: -5538, y: 9842 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 16 }
+}
+{
+  location: { x: -5538, y: 9842 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 6, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 20 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 1, y: 19 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 1, y: 19 }
+}
+{
+  location: { x: -5058, y: 11442 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 19 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 19 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 20 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -4, y: 20 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 1, y: 20 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 1, y: 18 }
+}
+{
+  location: { x: -4658, y: 9542 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -1, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 18 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 19 }
+}
+{
+  location: { x: -3290, y: 9390 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 24 }
+}
+{
+  location: { x: -3266, y: 9391 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: 24 }
+}
+{
+  location: { x: -3266, y: 9391 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -1, y: 24 }
+}
+{
+  location: { x: -3266, y: 9391 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 24 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 24 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 22 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 22 }
+}
+{
+  location: { x: -2791, y: 7111 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 20 }
+}
+{
+  location: { x: -3371, y: 6966 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 20 }
+}
+{
+  location: { x: -3371, y: 6966 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 18 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 18 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 13 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 13 }
+}
+{
+  location: { x: -4217, y: 6731 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 9 }
+}
+{
+  location: { x: -4739, y: 6151 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: 9 }
+}
+{
+  location: { x: -4739, y: 6151 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -10, y: 10 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 10 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 14 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 14 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -4, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 9 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: 11 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: 11 }
+}
+{
+  location: { x: -4519, y: 5953 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: 11 }
+}
+{
+  location: { x: -3683, y: 6789 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: 11 }
+}
+{
+  location: { x: -3683, y: 6789 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 11 }
+}
+{
+  location: { x: -3232, y: 7199 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 11 }
+}
+{
+  location: { x: -3232, y: 7199 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 6 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 6 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -10, y: 5 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 5 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 7 }
+}
+{
+  location: { x: -2944, y: 7679 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 7 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: 3 }
+}
+{
+  location: { x: -3497, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -3, y: 3 }
+}
+{
+  location: { x: -3239, y: 6947 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -3, y: 3 }
+}
+{
+  location: { x: -3239, y: 6947 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -3, y: 5 }
+}
+{
+  location: { x: -3239, y: 6947 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 5 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -2, y: 5 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 5 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 3 }
+}
+{
+  location: { x: -3229, y: 6922 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 3 }
+}
+{
+  location: { x: -3220, y: 6940 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: 3 }
+}
+{
+  location: { x: -3220, y: 6940 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: 3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: 3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: 3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -2 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -2 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -7 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -7 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -3 }
+}
+{
+  location: { x: -3478, y: 7069 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -5 }
+}
+{
+  location: { x: -3109, y: 7274 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -5 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -5 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -9, y: -5 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -9, y: -1 }
+}
+{
+  location: { x: -2479, y: 7624 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -1 }
+}
+{
+  location: { x: -2641, y: 7606 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -1 }
+}
+{
+  location: { x: -2641, y: 7606 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -9, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -7, y: -5 }
+}
+{
+  location: { x: -3433, y: 7166 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -7, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -5 }
+}
+{
+  location: { x: -3825, y: 6886 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -5 }
+}
+{
+  location: { x: -3783, y: 6921 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -5 }
+}
+{
+  location: { x: -3783, y: 6921 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -8 }
+}
+{
+  location: { x: -3567, y: 7209 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -8 }
+}
+{
+  location: { x: -3567, y: 7209 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -8 }
+}
+{
+  location: { x: -3583, y: 7221 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -8 }
+}
+{
+  location: { x: -3583, y: 7221 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: -8 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: -8 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -10, y: -8 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -10, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -10, y: -7 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -7 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -8, y: -7 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -8, y: -11 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -11 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -12 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -10 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: -10 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -10 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -7, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -3, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -3, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 2, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -14 }
+}
+{
+  location: { x: -3595, y: 7205 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -10 }
+}
+{
+  location: { x: -3485, y: 6655 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -10 }
+}
+{
+  location: { x: -3485, y: 6655 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -7 }
+}
+{
+  location: { x: -3485, y: 6655 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 3, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 3, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -1, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -6, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -6, y: -7 }
+}
+{
+  location: { x: -3245, y: 6095 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -6, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -11, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -11, y: -7 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -11, y: -2 }
+}
+{
+  location: { x: -2723, y: 6704 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -6, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -5, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: -2 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -5, y: -1 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -5, y: -1 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -1 }
+}
+{
+  location: { x: -2663, y: 6724 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -2 }
+}
+{
+  location: { x: -2627, y: 6580 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -2 }
+}
+{
+  location: { x: -2627, y: 6580 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -2 }
+}
+{
+  location: { x: -2627, y: 6580 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -5 }
+}
+{
+  location: { x: -3339, y: 6135 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -8, y: -5 }
+}
+{
+  location: { x: -3339, y: 6135 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -5 }
+}
+{
+  location: { x: -3129, y: 5799 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -8, y: -5 }
+}
+{
+  location: { x: -3129, y: 5799 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -11, y: -5 }
+}
+{
+  location: { x: -3129, y: 5799 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: -5 }
+}
+{
+  location: { x: -3589, y: 6811 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -11, y: -5 }
+}
+{
+  location: { x: -3589, y: 6811 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: -5 }
+}
+{
+  location: { x: -4117, y: 6571 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: -5 }
+}
+{
+  location: { x: -4238, y: 6516 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -11, y: -5 }
+}
+{
+  location: { x: -4238, y: 6516 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -13, y: -5 }
+}
+{
+  location: { x: -4238, y: 6516 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -13, y: -2 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -14, y: -2 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -14, y: -4 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -14, y: -4 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -14, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -13, y: -5 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -13, y: -9 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -12, y: -9 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -12, y: -9 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -12, y: -11 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -17, y: -11 }
+}
+{
+  location: { x: -3887, y: 6651 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -16, y: -11 }
+}
+{
+  location: { x: -5071, y: 5837 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -16, y: -11 }
+}
+{
+  location: { x: -5071, y: 5837 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -4303, y: 6365 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -4303, y: 6365 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -19, y: -11 }
+}
+{
+  location: { x: -4246, y: 6398 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -19, y: -11 }
+}
+{
+  location: { x: -4246, y: 6398 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -3062, y: 7212 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -16, y: -11 }
+}
+{
+  location: { x: -3062, y: 7212 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -16, y: -11 }
+}
+{
+  location: { x: -2644, y: 6604 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -16, y: -11 }
+}
+{
+  location: { x: -2644, y: 6604 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -16, y: -11 }
+}
+{
+  location: { x: -2644, y: 6604 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -14, y: -11 }
+}
+{
+  location: { x: -3557, y: 7766 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -14, y: -11 }
+}
+{
+  location: { x: -3557, y: 7766 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -15, y: -11 }
+}
+{
+  location: { x: -4415, y: 8936 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -15, y: -11 }
+}
+{
+  location: { x: -4415, y: 8936 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -15, y: -11 }
+}
+{
+  location: { x: -4415, y: 8936 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -15, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -15, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -18, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -20, y: -7 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -20, y: -6 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -20, y: -6 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -18, y: -6 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -18, y: -10 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -18, y: -10 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -18, y: -15 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -13, y: -15 }
+}
+{
+  location: { x: -5060, y: 8635 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -14, y: -15 }
+}
+{
+  location: { x: -3898, y: 9880 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -14, y: -15 }
+}
+{
+  location: { x: -3898, y: 9880 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -15 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -15 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -13 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -3268, y: 10930 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -7, y: -13 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -7, y: -13 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -11 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -11 }
+}
+{
+  location: { x: -4126, y: 11392 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -10 }
+}
+{
+  location: { x: -4108, y: 11412 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -10 }
+}
+{
+  location: { x: -4108, y: 11412 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -10 }
+}
+{
+  location: { x: -4258, y: 11547 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -10 }
+}
+{
+  location: { x: -4258, y: 11547 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: -9, y: -13 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -13 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -9, y: -10 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: -10 }
+}
+{
+  location: { x: -4388, y: 11637 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: -5 }
+}
+{
+  location: { x: -4160, y: 11922 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: -4, y: -5 }
+}
+{
+  location: { x: -4160, y: 11922 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -5 }
+}
+{
+  location: { x: -4160, y: 11922 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -7 }
+}
+{
+  location: { x: -3579, y: 11590 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -7 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -7 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -4, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: -2, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: -2, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -12 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 2, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 2, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -14 }
+}
+{
+  location: { x: -2942, y: 11226 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -15 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 4, y: -15 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -15 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 4, y: -12 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -12 }
+}
+{
+  location: { x: -2746, y: 10491 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -10 }
+}
+{
+  location: { x: -3726, y: 10099 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 4, y: -10 }
+}
+{
+  location: { x: -3726, y: 10099 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 3, y: -10 }
+}
+{
+  location: { x: -3726, y: 10099 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: -10 }
+}
+{
+  location: { x: -3496, y: 10168 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 3, y: -10 }
+}
+{
+  location: { x: -3496, y: 10168 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: -10 }
+}
+{
+  location: { x: -3496, y: 10168 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 5, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 7, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 7, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -8 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -3432, y: 10208 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -4 }
+}
+{
+  location: { x: -3316, y: 10469 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -7 }
+}
+{
+  location: { x: -4604, y: 11113 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -7 }
+}
+{
+  location: { x: -4604, y: 11113 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -12 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -12 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -11 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 14, y: -11 }
+}
+{
+  location: { x: -5556, y: 11929 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -15 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -15 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 8, y: -15 }
+}
+{
+  location: { x: -6359, y: 11272 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -7469, y: 10680 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -7469, y: 10680 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -15 }
+}
+{
+  location: { x: -7685, y: 11085 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -15 }
+}
+{
+  location: { x: -7685, y: 11085 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -15 }
+}
+{
+  location: { x: -7685, y: 11085 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -15 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -15 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -16 }
+}
+{
+  location: { x: -9005, y: 10381 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -16 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -16 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: -16 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 6, y: -21 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 6, y: -21 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 11, y: -21 }
+}
+{
+  location: { x: -8494, y: 9213 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: -21 }
+}
+{
+  location: { x: -7944, y: 8163 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 13, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -24 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 11, y: -23 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -23 }
+}
+{
+  location: { x: -8496, y: 7864 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -21 }
+}
+{
+  location: { x: -7768, y: 6688 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -21 }
+}
+{
+  location: { x: -7768, y: 6688 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -21 }
+}
+{
+  location: { x: -7306, y: 6974 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -21 }
+}
+{
+  location: { x: -7306, y: 6974 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 11, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -16 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 11, y: -12 }
+}
+{
+  location: { x: -6570, y: 7572 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 11, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 11, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -12 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 9, y: -7 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -7 }
+}
+{
+  location: { x: -6680, y: 7692 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6185, y: 7087 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6185, y: 7087 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6372, y: 6934 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -11 }
+}
+{
+  location: { x: -6372, y: 6934 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -11 }
+}
+{
+  location: { x: -6444, y: 7022 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -11 }
+}
+{
+  location: { x: -6444, y: 7022 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -11 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -11 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -13 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -13 }
+}
+{
+  location: { x: -6219, y: 6747 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -14 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -14 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -9 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -9 }
+}
+{
+  location: { x: -5729, y: 6257 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -6 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -6 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -5 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -5 }
+}
+{
+  location: { x: -5018, y: 5783 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -5146, y: 5495 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -4 }
+}
+{
+  location: { x: -5146, y: 5495 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -4 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -2 }
+}
+{
+  location: { x: -5929, y: 5843 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 9, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 9, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 8, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -2 }
+}
+{
+  location: { x: -6271, y: 5919 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -7 }
+}
+{
+  location: { x: -6775, y: 6360 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 8, y: -7 }
+}
+{
+  location: { x: -6775, y: 6360 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -7 }
+}
+{
+  location: { x: -6375, y: 6010 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -7 }
+}
+{
+  location: { x: -6375, y: 6010 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -7 }
+}
+{
+  location: { x: -6214, y: 5849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -7 }
+}
+{
+  location: { x: -6214, y: 5849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 7, y: -9 }
+}
+{
+  location: { x: -6214, y: 5849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -9 }
+}
+{
+  location: { x: -5944, y: 5579 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 9, y: -9 }
+}
+{
+  location: { x: -5944, y: 5579 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: -9 }
+}
+{
+  location: { x: -5944, y: 5579 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5233, y: 6527 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5233, y: 6527 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 12, y: -9 }
+}
+{
+  location: { x: -6043, y: 5447 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 12, y: -9 }
+}
+{
+  location: { x: -6043, y: 5447 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5314, y: 6419 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 12, y: -9 }
+}
+{
+  location: { x: -5314, y: 6419 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 12, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 12, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: -9 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: -6 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 13, y: -6 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -6 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -1 }
+}
+{
+  location: { x: -4450, y: 5771 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -1 }
+}
+{
+  location: { x: -3397, y: 5690 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -1 }
+}
+{
+  location: { x: -3397, y: 5690 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -4 }
+}
+{
+  location: { x: -2539, y: 5426 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -4 }
+}
+{
+  location: { x: -2539, y: 5426 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -9 }
+}
+{
+  location: { x: -1460, y: 4679 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 13, y: -9 }
+}
+{
+  location: { x: -1460, y: 4679 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -9 }
+}
+{
+  location: { x: -1325, y: 4874 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -9 }
+}
+{
+  location: { x: -1325, y: 4874 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -9 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -9 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -9 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 18, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 15, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -12 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -7 }
+}
+{
+  location: { x: -1181, y: 5162 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: -7 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 17, y: -7 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -7 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 15, y: -11 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 16, y: -11 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 16, y: -11 }
+}
+{
+  location: { x: -161, y: 4742 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 14, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 10, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 10, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -11 }
+}
+{
+  location: { x: -553, y: 5050 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -14 }
+}
+{
+  location: { x: 119, y: 5674 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -14 }
+}
+{
+  location: { x: 119, y: 5674 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 13, y: -16 }
+}
+{
+  location: { x: 119, y: 5674 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 8, y: -16 }
+}
+{
+  location: { x: 151, y: 5690 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 8, y: -16 }
+}
+{
+  location: { x: 151, y: 5690 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -16 }
+}
+{
+  location: { x: 527, y: 4938 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -16 }
+}
+{
+  location: { x: 527, y: 4938 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -21 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -21 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 8, y: -26 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -26 }
+}
+{
+  location: { x: 615, y: 4707 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -24 }
+}
+{
+  location: { x: 1545, y: 2475 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -24 }
+}
+{
+  location: { x: 1545, y: 2475 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 10, y: -26 }
+}
+{
+  location: { x: 1545, y: 2475 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -26 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 14, y: -26 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -26 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 18, y: -27 }
+}
+{
+  location: { x: 1867, y: 1877 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 18, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 18, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 22, y: -27 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 22, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 27, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 27, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 27, y: -32 }
+}
+{
+  location: { x: 4216, y: 3443 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 27, y: -37 }
+}
+{
+  location: { x: 5971, y: 1038 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 27, y: -37 }
+}
+{
+  location: { x: 5971, y: 1038 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 32, y: -37 }
+}
+{
+  location: { x: 7603, y: -849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 32, y: -37 }
+}
+{
+  location: { x: 7603, y: -849 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 33, y: -37 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 33, y: -40 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -40 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -41 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -43 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -39 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -39 }
+}
+{
+  location: { x: 10008, y: -3254 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 12846, y: -6264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 12846, y: -6264 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 33, y: -35 }
+}
+{
+  location: { x: 12846, y: -6264 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 13143, y: -6579 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -35 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 33, y: -31 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -31 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 37, y: -27 }
+}
+{
+  location: { x: 15651, y: -9239 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -27 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -27 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -22 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -22 }
+}
+{
+  location: { x: 14571, y: -10719 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -25 }
+}
+{
+  location: { x: 14021, y: -11511 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -25 }
+}
+{
+  location: { x: 14021, y: -11511 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -27 }
+}
+{
+  location: { x: 14021, y: -11511 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 35, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -27 }
+}
+{
+  location: { x: 15857, y: -12888 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -29 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -29 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -34 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -34 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 36, y: -34 }
+}
+{
+  location: { x: 16829, y: -13671 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 36, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 36, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 32, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 32, y: -34 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 32, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 36, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 36, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 38, y: -35 }
+}
+{
+  location: { x: 14415, y: -16227 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 39, y: -35 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 39, y: -35 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 38, y: -35 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 38, y: -40 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 40, y: -40 }
+}
+{
+  location: { x: 12036, y: -14092 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 44, y: -40 }
+}
+{
+  location: { x: 11596, y: -13692 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 44, y: -40 }
+}
+{
+  location: { x: 11596, y: -13692 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 44, y: -40 }
+}
+{
+  location: { x: 11596, y: -13692 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 11476, y: -13830 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 11476, y: -13830 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 46, y: -40 }
+}
+{
+  location: { x: 11154, y: -13550 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 46, y: -40 }
+}
+{
+  location: { x: 11154, y: -13550 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 8914, y: -16126 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -40 }
+}
+{
+  location: { x: 8914, y: -16126 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 47, y: -40 }
+}
+{
+  location: { x: 8914, y: -16126 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -40 }
+}
+{
+  location: { x: 12204, y: -18926 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -40 }
+}
+{
+  location: { x: 15541, y: -21766 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -40 }
+}
+{
+  location: { x: 15541, y: -21766 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -37 }
+}
+{
+  location: { x: 20053, y: -25318 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 47, y: -37 }
+}
+{
+  location: { x: 20053, y: -25318 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 47, y: -37 }
+}
+{
+  location: { x: 17981, y: -27950 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 47, y: -37 }
+}
+{
+  location: { x: 17981, y: -27950 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 43, y: -37 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 43, y: -37 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -37 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -42 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -42 }
+}
+{
+  location: { x: 14429, y: -32078 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -40 }
+}
+{
+  location: { x: 10829, y: -35858 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -40 }
+}
+{
+  location: { x: 10829, y: -35858 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 37, y: -40 }
+}
+{
+  location: { x: 10829, y: -35858 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -40 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -40 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 37, y: -39 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 0, facing_y: 3, x: 41, y: -39 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 41, y: -39 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 3, facing_y: 2, x: 41, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 41, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 1, facing_y: 0, x: 46, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 46, y: -41 }
+}
+{
+  location: { x: 14069, y: -32861 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -41 }
+}
+{
+  location: { x: 11609, y: -35381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 42, y: -41 }
+}
+{
+  location: { x: 11609, y: -35381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -41 }
+}
+{
+  location: { x: 11609, y: -35381 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -44 }
+}
+{
+  location: { x: 11477, y: -35495 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -44 }
+}
+{
+  location: { x: 11477, y: -35495 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -39 }
+}
+{
+  location: { x: 9371, y: -37547 },
+  wayPoint: { facing_x: 2, facing_y: 1, x: 38, y: -39 }
+}
+46918
