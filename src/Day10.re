@@ -57,7 +57,7 @@ let calcArrange = (data) => {
                     let exp = (acc.jolt_1 - 1) < 0 ? 0 : acc.jolt_1 - 1;
                     let offset = (acc.jolt_1 == 4) ? 1.0 : 0.0;
                     
-                    let arrange = Js.Math.pow_int(~base=2, ~exp=exp)->float_of_int -. offset;
+                    let arrange = Js.Math.pow_float(~base=2.0, ~exp=(exp->float_of_int)) -. offset;
                     {jolt_1: 0, arrange: acc.arrange *. arrange}
                     };
                 | _ => arrange_init;

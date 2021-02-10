@@ -19,7 +19,6 @@ module Action = {
             | L(v) => v
             | R(v) => v
             | F(v) => v
-            | _ => 0
         }
     }
 };

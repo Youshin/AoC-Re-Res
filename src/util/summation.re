@@ -15,9 +15,9 @@ module type generics = {
 
 module Summation = (Item: generics) => {
     type t = Item.t;
-    let sum = (a: t, b: t) => {
-        Item.add(a,b)
-    };
+    // let sum = (a: t, b: t) => {
+    //     Item.add(a,b)
+    // };
     let print = (t: t) => {
         t->Js.log;
     }
@@ -30,9 +30,6 @@ module Summation = (Item: generics) => {
         })
         ->Array.keep(x=> x->Array.length != 0);
     };
-
-    let threeSum = () => {
-    }
 
     let max = (arr) => {
         Item.max_arr(arr);
