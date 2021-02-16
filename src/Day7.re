@@ -1,4 +1,6 @@
 open Belt;
+
+module Traverse = {
 let input =
   Node.Fs.readFileAsUtf8Sync("./src/input/day7.txt")
   ->Js.String2.split("\n")
@@ -44,33 +46,23 @@ let parsed =
     {color: bag, contains};
   });
 
-let toUniqueSet = arr => {
-  arr->Set.String.fromArray;
-};
+let log = a => {
+  Js.log(a);
+  a;
+}
 
-let rec traverse_up = color => {
-  let res =
-    parsed->List.reduce(
-      [],
-      (acc, bag) => {
-        switch (bag.contains->List.getBy(contained_bag => contained_bag.color == color)) {
-          | Some(_) =>
-            let a = traverse_up(bag.color);
-            List.concatMany([|acc, [bag.color], a|]);
-          | None => acc
-        };
-      }
-    );
-    res;
-};
-
-let part1 =
-  "shiny gold"
-  ->traverse_up
-  ->List.toArray
-  ->toUniqueSet
-  ->Set.String.size
-  ->Js.log;
+let rec traverse_up = color =>
+  parsed->List.reduce(
+    Set.String.empty,
+    (acc, bag) => {
+      switch (bag.contains->List.getBy(contained_bag => contained_bag.color == color)) {
+        | Some(_) =>
+          let a = traverse_up(bag.color);
+          acc->Set.String.add(bag.color)->Set.String.union(a);
+        | None => acc
+      };
+    }
+  )->log;
 
 let rec traverse_down = color => {
   let res =
@@ -97,6 +89,13 @@ let rec traverse_down = color => {
   res;
 };
 
+let part1 =
+  "shiny gold"
+  ->traverse_up
+  ->Set.String.size
+  ->Js.log;
+  
 let part2 = "shiny gold"
 ->traverse_down
 ->Js.log;
+}

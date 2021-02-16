@@ -138,9 +138,15 @@ let ans2 = part2
 ->Array.keep(x => regex_match("ecl", %re("/(amb|blu|brn|gry|grn|hzl|oth)/"), x))
 ->Array.keep(x => regex_match("pid", %re("/[0-9]{9}/"),x))
 ->Array.keep(x => x->height_match)
-->Array.length
+// 
+
+let a = ans2->Array.reduce(0, (acc,item)=> {
+    item->Js.log
+    acc
+})
 
 ans2
+->Array.length
 ->Js.log
 
 
