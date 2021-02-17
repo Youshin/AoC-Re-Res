@@ -31,34 +31,36 @@ type passport_t = {
 let types = ["ecl", "pid", "eyr", "hcl", "byr", "iyr", "cid", "hgt"]
 
 let range_match = (k:option<string>, min, max) => {
-  let num = k->Belt.Option.getWithDefault("")->int_of_string;
-  if min <= num && num <= max {
-    num
-  } else {
-    0
+  switch k {
+    | Some(x) => (min <= x->int_of_string && x->int_of_string <= max) ? x->int_of_string : 0
+    | None => 0
   }
 }
 
 let regex_match = (k, regex) => {
-  let word = k->Option.getWithDefault("")
-  switch Js.String2.match_(word, regex) {
-  | Some(match) =>
-    if match->Array.getExn(0) == word {
-      match->Array.getExn(0)
-    } else {
-      ""
+  switch k {
+    | Some(x) => {
+      switch Js.String2.match_(x, regex) {
+      | Some(match) when match->Array.getExn(0) == x => match->Array.getExn(0)
+      | _ => ""
+      }
     }
-  | _ => ""
+    | None => ""
   }
 }
 
 let height_match = m => {
-  let hgt = m->Option.getWithDefault("")->Js.String2.replaceByRe(%re("/(in|cm)/g"), "")->int_of_string
-  let unit = m->Option.getWithDefault("")->Js.String2.replaceByRe(%re("/[0-9]+/"), "")
-  if (hgt >= 150 && hgt <= 193 && unit == "cm") || (hgt >= 59 && hgt <= 76 && unit == "in") {
-    {num: hgt, unit: unit}
-  } else {
-    {num: 0, unit: ""}
+  switch m {
+    | Some(x) => {
+      let hgt = x->Js.String2.replaceByRe(%re("/(in|cm)/g"), "")->int_of_string
+      let unit = x->Js.String2.replaceByRe(%re("/[0-9]+/"), "")
+      if (hgt >= 150 && hgt <= 193 && unit == "cm") || (hgt >= 59 && hgt <= 76 && unit == "in") {
+        {num: hgt, unit: unit}
+      } else {
+        {num: 0, unit: ""}
+      }
+    }
+    | None => {num: 0, unit: ""}
   }
 }
 
