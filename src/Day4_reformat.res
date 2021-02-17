@@ -2,13 +2,13 @@ open Belt
 let input = Node.Fs.readFileAsUtf8Sync("./src/input/day4.txt")->Js.String2.split("\n\n")
 
 type raw_t = {
-  byr: string,
-  iyr: string,
-  eyr: string,
-  hgt: string,
-  hcl: string,
-  ecl: string,
-  pid: string,
+  byr: option<string>,
+  iyr: option<string>,
+  eyr: option<string>,
+  hgt: option<string>,
+  hcl: option<string>,
+  ecl: option<string>,
+  pid: option<string>,
   cid: option<string>,
 }
 
@@ -28,42 +28,22 @@ type passport_t = {
   cid: option<string>,
 }
 
-let init_raw: raw_t = {
-  byr: "",
-  iyr: "",
-  eyr: "",
-  hgt: "",
-  hcl: "",
-  ecl: "",
-  pid: "",
-  cid: None,
-}
-
-let init_passport: passport_t = {
-  byr: 0,
-  iyr: 0,
-  eyr: 0,
-  hgt: {num: 0, unit: ""},
-  hcl: "",
-  ecl: "",
-  pid: "",
-  cid: None,
-}
-
 let types = ["ecl", "pid", "eyr", "hcl", "byr", "iyr", "cid", "hgt"]
 
-let range_match = (k, min, max) => {
-  if min <= k->int_of_string && k->int_of_string <= max {
-    k->int_of_string
+let range_match = (k:option<string>, min, max) => {
+  let num = k->Belt.Option.getWithDefault("")->int_of_string;
+  if min <= num && num <= max {
+    num
   } else {
     0
   }
 }
 
 let regex_match = (k, regex) => {
-  switch Js.String2.match_(k, regex) {
+  let word = k->Option.getWithDefault("")
+  switch Js.String2.match_(word, regex) {
   | Some(match) =>
-    if match->Array.getExn(0) == k {
+    if match->Array.getExn(0) == word {
       match->Array.getExn(0)
     } else {
       ""
@@ -73,9 +53,8 @@ let regex_match = (k, regex) => {
 }
 
 let height_match = m => {
-  let num = m->Js.String2.replaceByRe(%re("/(in|cm)/g"), "")
-  let unit = m->Js.String2.replaceByRe(%re("/[0-9]+/"), "")
-  let hgt = num->int_of_string
+  let hgt = m->Option.getWithDefault("")->Js.String2.replaceByRe(%re("/(in|cm)/g"), "")->int_of_string
+  let unit = m->Option.getWithDefault("")->Js.String2.replaceByRe(%re("/[0-9]+/"), "")
   if (hgt >= 150 && hgt <= 193 && unit == "cm") || (hgt >= 59 && hgt <= 76 && unit == "in") {
     {num: hgt, unit: unit}
   } else {
@@ -85,89 +64,42 @@ let height_match = m => {
 
 let parseInput = input => {
   input->Js.Array2.map(l => {
-    let raw = l
+    l
     ->Js.String2.replaceByRe(%re(`/\n/g`), " ")
     ->Js.String2.trim
     ->Js.String2.split(" ")
-    ->Js.Array2.map(l => {
-      let set = l->Js.String2.split(":")
-      (set->Array.getExn(0), set->Array.getExn(1))
-    })
-    ->Array.reduce(init_raw, (acc, item) => {
-      switch item {
-      | ("byr", x) => {...acc, byr: x}
-      | ("iyr", x) => {...acc, iyr: x}
-      | ("eyr", x) => {...acc, eyr: x}
-      | ("hgt", x) => {...acc, hgt: x}
-      | ("hcl", x) => {...acc, hcl: x}
-      | ("ecl", x) => {...acc, ecl: x}
-      | ("pid", x) => {...acc, pid: x}
-      | ("cid", x) => {...acc, cid: Some(x)}
-      | _ => init_raw
-      }
-    })
-    raw
   })
 }
 
-// let raw_check = (item: raw_t) => {
-//   if (
-//     item.byr == "" ||
-//     item.iyr == "" ||
-//     item.eyr == "" ||
-//     item.hcl == "" ||
-//     item.ecl == "" ||
-//     item.hgt == "" ||
-//     item.pid == ""
-//   ) {
-//     false
-//   } else {
-//     true
-//   }
-// }
+let getAttribute = (data, attribute) => {
+  switch data->Array.getBy((x) => x->Array.getExn(0) == attribute) {
+    | Some(x) => x->Array.get(1);
+    | _ => None
+  }
+}
 
-// let passport_check = (item: passport) => {
-//   if (
-//     item.byr == 0 ||
-//     item.iyr == 0 ||
-//     item.eyr == 0 ||
-//     item.hcl == "" ||
-//     item.ecl == "" ||
-//     item.hgt == {num: 0, unit: ""} ||
-//     item.pid == ""
-//   ) {
-//     false
-//   } else {
-//     true
-//   }
-// }
-
-// PassportEntry | Passport
-// raw | password
-
-
-
-// let p1_check: string => option<raw_t>
-// keepMap
-// let p2_check: raw_t => option<passport_t>
-// keepMap
-// length
-
-let p1_check:raw_t => option<raw_t> = item => {
+let p1_check:array<string> => option<raw_t> = item => {
+  let splited = item->Array.map(l => l->Js.String2.split(":"))
+  let raw: raw_t = {
+    byr: splited->getAttribute("byr"), iyr: splited->getAttribute("iyr"), eyr: splited->getAttribute("eyr"),
+    hcl: splited->getAttribute("hcl"), ecl: splited->getAttribute("ecl"), hgt: splited->getAttribute("hgt"),
+    pid: splited->getAttribute("pid"), cid: splited->getAttribute("cid")
+  }
   if (
-    item.byr == "" ||
-    item.iyr == "" ||
-    item.eyr == "" ||
-    item.hcl == "" ||
-    item.ecl == "" ||
-    item.hgt == "" ||
-    item.pid == ""
+    raw.byr == None ||
+    raw.iyr == None ||
+    raw.eyr == None ||
+    raw.hcl == None ||
+    raw.ecl == None ||
+    raw.hgt == None ||
+    raw.pid == None
   ) {
     None;
   } else {
-    Some(item);
+    Some(raw);
   }
 }
+
 
 let p2_check:raw_t => option<passport_t> = item => {
   try {
@@ -198,6 +130,7 @@ let p2_check:raw_t => option<passport_t> = item => {
 }
 
 let part1 = input->parseInput->Array.keepMap(x=> x->p1_check)
+// let p1 = input->parseInput->Array.keepMap(l => l->p1_check)->Array.length->Js.log;
 
 part1->Array.length->Js.log
 
