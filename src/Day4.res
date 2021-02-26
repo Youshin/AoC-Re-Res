@@ -52,10 +52,10 @@ let range_match = (k, min, max, m) => {
   }
 }
 
-// let regex_match = (k, regex, m) => 
-//     m->Js.Dict.get(k) 
+// let regex_match = (k, regex, m) =>
+//     m->Js.Dict.get(k)
 //     ->Option.map(v => v->Js.String2.match_(regex)->Array.getExn(0) == v)
-    
+
 //Belt map module=~id
 let regex_match = (k, regex, m) => {
   switch m->Js.Dict.get(k) {
@@ -68,21 +68,22 @@ let regex_match = (k, regex, m) => {
   }
 }
 
-let height_match = (m) => {
-    switch m->Js.Dict.get("hgt") {
-        | Some(_val) => {
-            // _val->Js.log
-            let num = _val->Js.String2.replaceByRe(%re("/(in|cm)/g"), "")
-            let unit = _val->Js.String2.replaceByRe(%re("/[0-9]+/"), "")
-            let hgt = num->int_of_string
-            // num->Js.log
-            // hgt->Js.log
-            // unit->Js.log
-            let res = (hgt >= 150 && hgt <= 193 && unit == "cm") || (hgt >= 59 && hgt <= 76 && unit=="in")
-            res
-        }
-        | None => false
+let height_match = m => {
+  switch m->Js.Dict.get("hgt") {
+  | Some(_val) => {
+      // _val->Js.log
+      let num = _val->Js.String2.replaceByRe(%re("/(in|cm)/g"), "")
+      let unit = _val->Js.String2.replaceByRe(%re("/[0-9]+/"), "")
+      let hgt = num->int_of_string
+      // num->Js.log
+      // hgt->Js.log
+      // unit->Js.log
+      let res =
+        (hgt >= 150 && hgt <= 193 && unit == "cm") || (hgt >= 59 && hgt <= 76 && unit == "in")
+      res
     }
+  | None => false
+  }
 }
 
 // byr (Birth Year) - four digits; at least 1920 and at most 2002.
@@ -95,17 +96,18 @@ let height_match = (m) => {
 // ecl (Eye Color) - exactly one of: amb blu brn gry grn hzl oth.
 // pid (Passport ID) - a nine-digit number, including leading zeroes.
 
-
 let parseInput = () => {
-    input->Js.Array2.map(l => {
-        l->Js.String2.replaceByRe(%re(`/\n/g`), " ")
-        ->Js.String2.trim
-        ->Js.String2.split(" ")
-        ->Js.Array2.map(l => {
-            let set = l->Js.String2.split(":")
-            (set->Array.getExn(0), set->Array.getExn(1))
-        })->Js.Dict.fromArray
+  input->Js.Array2.map(l => {
+    l
+    ->Js.String2.replaceByRe(%re(`/\n/g`), " ")
+    ->Js.String2.trim
+    ->Js.String2.split(" ")
+    ->Js.Array2.map(l => {
+      let set = l->Js.String2.split(":")
+      (set->Array.getExn(0), set->Array.getExn(1))
     })
+    ->Js.Dict.fromArray
+  })
 }
 
 // ["a", "b", "c"] -> (a, b, c, d...)
@@ -113,42 +115,37 @@ let parseInput = () => {
 // {"a": a
 //  "b": b}
 let part1 = parseInput()
-let ans = part1
-->Array.keep(x => 
+let ans =
+  part1
+  ->Array.keep(x =>
     switch x->Js.Dict.entries->Array.length {
-        | 8 => true
-        | 7 => {
-            x->Js.Dict.get("cid") == None
-        }
-        | _ => false
+    | 8 => true
+    | 7 => x->Js.Dict.get("cid") == None
+    | _ => false
     }
-)
-->Array.length
+  )
+  ->Array.length
 
-ans
-->Js.log
+ans->Js.log
 
 let part2 = parseInput()
 
-let ans2 = part2
-->Array.keep(x => range_match("byr", 1920, 2002, x))
-->Array.keep(x => range_match("iyr", 2010, 2020, x))
-->Array.keep(x => range_match("eyr", 2020, 2030, x))
-->Array.keep(x => regex_match("hcl", %re("/(#)[a-f0-9]{6}/"), x))
-->Array.keep(x => regex_match("ecl", %re("/(amb|blu|brn|gry|grn|hzl|oth)/"), x))
-->Array.keep(x => regex_match("pid", %re("/[0-9]{9}/"),x))
-->Array.keep(x => x->height_match)
-// 
+let ans2 =
+  part2
+  ->Array.keep(x => range_match("byr", 1920, 2002, x))
+  ->Array.keep(x => range_match("iyr", 2010, 2020, x))
+  ->Array.keep(x => range_match("eyr", 2020, 2030, x))
+  ->Array.keep(x => regex_match("hcl", %re("/(#)[a-f0-9]{6}/"), x))
+  ->Array.keep(x => regex_match("ecl", %re("/(amb|blu|brn|gry|grn|hzl|oth)/"), x))
+  ->Array.keep(x => regex_match("pid", %re("/[0-9]{9}/"), x))
+  ->Array.keep(x => x->height_match)
+//
 
-let a = ans2->Array.reduce(0, (acc,item)=> {
-    item->Js.log
-    acc
+let a = ans2->Array.reduce(0, (acc, item) => {
+  item->Js.log
+  acc
 })
 
-ans2
-->Array.length
-->Js.log
-
+ans2->Array.length->Js.log
 
 // a->Array.map(validator)->Array.keep(v => v)->Array.length->Js.log
-

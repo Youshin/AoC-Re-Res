@@ -40,20 +40,27 @@ let checkFailure = (state, curr) =>
   curr < 0 || state.history->List.some(i => i == curr);
 
 let nextState = (instructions, curr, state) =>
-  if (instructions->List.length <= curr) {
-    (instructions, curr, {...state, success: DONE});
-  } else {
-    let state = {...state, history: state.history->List.add(curr)};
-    switch (instructions->List.getExn(curr)) {
-    | NOP(_) => (instructions, curr + 1, state)
-    | ACC(i) => (instructions, curr + 1, {...state, acc: state.acc + i})
-    | JMP(i) => (instructions, curr + i, state)
-    };
+  switch (instructions->List.get(curr)) {
+  | Some(NOP(_)) => (
+      instructions,
+      curr + 1,
+      {...state, history: [curr, ...state.history]},
+    )
+  | Some(ACC(i)) => (
+      instructions,
+      curr + 1,
+      {...state, acc: state.acc + i, history: [curr, ...state.history]},
+    )
+  | Some(JMP(i)) => (
+      instructions,
+      curr + i,
+      {...state, history: [curr, ...state.history]},
+    )
+  | None => (instructions, curr, {...state, success: DONE})
   };
 
 let rec run = (instructions, terminateFn, curr, state) => {
   let (_, curr', state') = instructions->nextState(curr, state);
-  //   state'->Js.log;
   if (checkFailure(state', curr')) {
     {...state, success: FAIL};
   } else {
@@ -79,11 +86,9 @@ let reverse_inst = inst =>
   | _ => inst
   };
 
-let processed_history =
-  input->parse->run(terminateFn_part1, 0, init_state).history;
 let terminateFn_part2 = s => s.success == DONE;
 
-let rec traverse = (input, history, state, idx) =>
+let rec traverse = (input, state, idx) =>
   if (state.success == DONE) {
     state;
   } else {
@@ -91,17 +96,17 @@ let rec traverse = (input, history, state, idx) =>
     let reversed_inst = inst->reverse_inst;
 
     switch (reversed_inst) {
-    | ACC(_) => traverse(input, history, state, idx + 1)
+    | ACC(_) => traverse(input, state, idx + 1)
     | _ =>
       let new_processed =
         shift_inst(input->parse, reversed_inst, idx)
         ->run(terminateFn_part2, 0, init_state);
       new_processed.success == DONE
-        ? traverse(input, history, new_processed, idx + 1)
-        : traverse(input, history, state, idx + 1);
+        ? traverse(input, new_processed, idx + 1)
+        : traverse(input, state, idx + 1);
     };
   };
 
-let part2 = traverse(input, processed_history, init_state, 0);
+let part2 = traverse(input, init_state, 0);
 
 part2.acc->Js.log;
