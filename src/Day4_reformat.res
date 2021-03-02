@@ -66,18 +66,16 @@ let getAttribute = (data, attribute) => {
 }
 
 let mapping_dict_to_type = dict => {
-  let raw = {
-    byr: dict->Js.Dict.get("byr"),
-    iyr: dict->Js.Dict.get("iyr"),
-    eyr: dict->Js.Dict.get("eyr"),
-    hcl: dict->Js.Dict.get("hcl"),
-    ecl: dict->Js.Dict.get("ecl"),
-    hgt: dict->Js.Dict.get("hgt"),
-    pid: dict->Js.Dict.get("pid"),
-    cid: dict->Js.Dict.get("cid"),
-  }
-  raw
+  byr: dict->Js.Dict.get("byr"),
+  iyr: dict->Js.Dict.get("iyr"),
+  eyr: dict->Js.Dict.get("eyr"),
+  hcl: dict->Js.Dict.get("hcl"),
+  ecl: dict->Js.Dict.get("ecl"),
+  hgt: dict->Js.Dict.get("hgt"),
+  pid: dict->Js.Dict.get("pid"),
+  cid: dict->Js.Dict.get("cid"),
 }
+
 let p1_check: string => option<raw_t> = item => {
   let splited = item
   ->Js.String2.split(" ")
@@ -86,7 +84,6 @@ let p1_check: string => option<raw_t> = item => {
     (set->Array.getExn(0), set->Array.getExn(1))
   })
   ->Js.Dict.fromArray
-  splited->Js.log
   switch splited->Js.Dict.entries->Array.length {
   | 8 => Some(mapping_dict_to_type(splited))
   | 7 when splited->Js.Dict.get("cid") == None => Some(mapping_dict_to_type(splited))
