@@ -92,37 +92,47 @@ let p1_check: string => option<raw_t> = item => {
 }
 
 type passport_t = {
-  byr: option<int>,
-  iyr: option<int>,
-  eyr: option<int>,
-  hgt: option<hgt_t>,
-  hcl: option<string>,
-  ecl: option<string>,
-  pid: option<string>,
+  byr: int,
+  iyr: int,
+  eyr: int,
+  hgt: hgt_t,
+  hcl: string,
+  ecl: string,
+  pid: string,
   cid: option<string>,
 }
 
-let isPassport = passport =>
-  (passport.byr == None ||
-  passport.iyr == None ||
-  passport.eyr == None ||
-  passport.hgt == None ||
-  passport.hcl == None ||
-  passport.ecl == None ||
-  passport.pid == None) == false
-
+let isPassport = passport => {
+  let (byr, iyr, eyr, hcl, ecl, pid, hgt) = passport
+  (byr == None ||
+  iyr == None ||
+  eyr == None ||
+  hgt == None ||
+  hcl == None ||
+  ecl == None ||
+  pid == None) == false
+}
 let p2_check: raw_t => option<passport_t> = item => {
-  let passport = {
-    byr: item.byr->range_match(1920, 2002),
-    iyr: item.iyr->range_match(2010, 2020),
-    eyr: item.eyr->range_match(2020, 2030),
-    hcl: item.hcl->regex_match(%re("/(#)[a-f0-9]{6}/")),
-    ecl: item.ecl->regex_match(%re("/(amb|blu|brn|gry|grn|hzl|oth)/")),
-    pid: item.pid->regex_match(%re("/^[0-9]{9}$/")),
-    hgt: item.hgt->height_match,
-    cid: item.cid,
-  }
-  if passport->isPassport {
+  let byr = item.byr->range_match(1920, 2002)
+  let iyr = item.iyr->range_match(2010, 2020)
+  let eyr = item.eyr->range_match(2020, 2030)
+  let hcl = item.hcl->regex_match(%re("/(#)[a-f0-9]{6}/"))
+  let ecl = item.ecl->regex_match(%re("/(amb|blu|brn|gry|grn|hzl|oth)/"))
+  let pid = item.pid->regex_match(%re("/^[0-9]{9}$/"))
+  let hgt = item.hgt->height_match
+  let cid = item.cid
+  let unvalidPassport = (byr, iyr, eyr, hcl, ecl, pid, hgt)
+  if unvalidPassport->isPassport {
+    let passport = {
+      byr: byr->Option.getExn,
+      iyr: iyr->Option.getExn,
+      eyr: eyr->Option.getExn,
+      hcl: hcl->Option.getExn,
+      ecl: ecl->Option.getExn,
+      pid: pid->Option.getExn,
+      hgt: hgt->Option.getExn,
+      cid: cid,
+    }
     Some(passport)
   } else {
     None
