@@ -8,8 +8,9 @@ let parse = (data, step) => {
   ->Array.mapWithIndex((idx, item) => {
     switch data[mod(idx + step, data->Array.length)] {
     | Some(next) when item == next => item->Int.fromString
-    | None when item == data->Array.getExn(0) => item->Int.fromString
-    | _ => None
+    | Some(_)
+    | None =>
+      None
     }
   })
   ->Array.keep(x => x != None)
