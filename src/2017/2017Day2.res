@@ -26,14 +26,11 @@ let modChecker = (x, y) => {
 }
 
 let getModMatched = data => {
-  let checked =
-    data
-    ->Array.map(x => {
-      data->Array.reduce(0, (acc, item) => acc + modChecker(x, item))
-    })
-    ->Array.keep(x => x != 0)
-
-  switch checked->Array.get(0) {
+  let checked = data->Array.keepMap(x => {
+    let res = data->Array.reduce(0, (acc, item) => acc + modChecker(x, item))
+    res == 0 ? None : Some(res)
+  })
+  switch checked->Js.Array.pop {
   | Some(x) => x
   | None => 0
   }
