@@ -13,12 +13,11 @@ let parse = (data, step) => {
       None
     }
   })
-  ->Array.keep(x => x != None)
+  ->Array.keepMap(x => x)
 }
 
-let part1 = input->parse(1)->Array.reduce(0, (acc, item) => acc + item->Option.getExn)
+let part1 = input->parse(1)->Array.reduce(0, (acc, item) => acc + item)
 part1->Js.log
 
-let part2 =
-  input->parse(input->Array.length / 2)->Array.reduce(0, (acc, item) => acc + item->Option.getExn)
+let part2 = input->parse(input->Array.length / 2)->Array.reduce(0, (acc, item) => acc + item)
 part2->Js.log
