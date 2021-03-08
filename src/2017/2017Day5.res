@@ -4,55 +4,39 @@ type jumper = {
   curr: int,
   count: int,
 }
-module IntCmp = Belt.Id.MakeComparable({
-  type t = int
-  let cmp = (a, b) => Pervasives.compare(a, b)
-})
 
 let input =
   Node.Fs.readFileAsUtf8Sync("./src/2017/input/day5.txt")
   ->Js.String2.split("\n")
   ->Array.mapWithIndex((idx, x) => (idx, x->int_of_string))
-  ->Map.fromArray(~id=module(IntCmp))
+  ->Map.Int.fromArray
 
-// let s1 = Belt.Map.set(s0, 2, "3")
-
-// Belt.Map.valuesToArray(s1) == ["1", "3", "3"]
-
-let rec jumps_p1 = (maze, jumper: jumper) => {
-  switch maze->Map.get(jumper.curr) {
+let rec jumps = (maze, jumper, setMaze) => {
+  switch maze->Map.Int.get(jumper.curr) {
   | None => jumper.count // escape
   | Some(jump) =>
-    let newMaze = maze->Map.set(jumper.curr, jump + 1)
-
-    jumps_p1(newMaze, {curr: jumper.curr + jump, count: jumper.count + 1})
+    jumps(
+      setMaze(maze, jump, jumper.curr),
+      {curr: jumper.curr + jump, count: jumper.count + 1},
+      setMaze,
+    )
   }
 }
 
-let rec jumps_p2 = (maze, jumper: jumper) => {
-  switch maze->Map.get(jumper.curr) {
-  | None => jumper.count // escape
-  | Some(jump) =>
-    let newMaze =
-      jump >= 3 ? maze->Map.set(jumper.curr, jump - 1) : maze->Map.set(jumper.curr, jump + 1)
-
-    jumps_p2(newMaze, {curr: jumper.curr + jump, count: jumper.count + 1})
-  }
+let part1 = (maze, jump, curr) => {
+  maze->Map.Int.set(curr, jump + 1)
 }
 
-let jumps = (maze, jumper: jumper, part) => {
-  if part == 1 {
-    jumps_p1(maze, jumper)
-  } else {
-    jumps_p2(maze, jumper)
-  }
+let part2 = (maze, jump, curr) => {
+  jump >= 3 ? maze->Map.Int.set(curr, jump - 1) : maze->Map.Int.set(curr, jump + 1)
 }
+
 let jumper = {
   curr: 0,
   count: 0,
 }
-let part1 = input->jumps(jumper, 1)
+let part1 = input->jumps(jumper, part1)
 part1->Js.log
 
-let part2 = input->jumps(jumper, 2)
+let part2 = input->jumps(jumper, part2)
 part2->Js.log
