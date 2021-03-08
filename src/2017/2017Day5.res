@@ -47,16 +47,12 @@ let jumps = (maze, jumper: jumper, part) => {
     jumps_p2(maze, jumper)
   }
 }
-let jumper1 = {
+let jumper = {
   curr: 0,
   count: 0,
 }
-let part1 = input->jumps(jumper1, 1)
+let part1 = input->jumps(jumper, 1)
 part1->Js.log
 
-let jumper2 = {
-  curr: 0,
-  count: 0,
-}
-let part2 = input->jumps(jumper2, 2)
+let part2 = input->jumps(jumper, 2)
 part2->Js.log
