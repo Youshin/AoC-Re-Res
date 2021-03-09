@@ -1,19 +1,14 @@
 open Belt
 
-let input = Node.Fs.readFileAsUtf8Sync("./src/2017/input/day1.txt")->Js.String2.split("")
+let input =
+  Node.Fs.readFileAsUtf8Sync("./src/2017/input/day1.txt")
+  ->Js.String2.split("")
+  ->Array.map(int_of_string)
 
 let parse = (data, step) => {
-  // keep only matching numbers
-  data
-  ->Array.mapWithIndex((idx, item) => {
-    switch data[mod(idx + step, data->Array.length)] {
-    | Some(next) when item == next => item->Int.fromString
-    | Some(_)
-    | None =>
-      None
-    }
-  })
-  ->Array.keepMap(x => x)
+  data->Array.keepWithIndex((item, idx) =>
+    data->Array.getExn(mod(idx + step, data->Array.length)) == item
+  )
 }
 
 let part1 = input->parse(1)->Array.reduce(0, (acc, item) => acc + item)
