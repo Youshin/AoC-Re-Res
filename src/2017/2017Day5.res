@@ -34,6 +34,8 @@ let nextMap_p2 = (maze, jump, curr) =>
 let nextStateP1 = nextState(nextMap_p1)
 let nextStateP2 = nextState(nextMap_p2)
 
+// let terminateState
+
 let state = {
   maze: input,
   curr: 0,

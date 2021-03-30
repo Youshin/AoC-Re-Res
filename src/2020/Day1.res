@@ -1,7 +1,7 @@
 open Belt
 let target = 2020
 
-let input = Node.Fs.readFileAsUtf8Sync("./src/input/day1.txt")
+let input = Node.Fs.readFileAsUtf8Sync("./src/2020/input/day1.txt")
 ->Js.String2.split("\n")
 ->Array.map(_val => _val->int_of_string)
 ->Array.reduce(Js.Dict.empty(), (arr, _val) => {
@@ -30,7 +30,8 @@ let res2 = {
       let v1 = keys->Array.get(i)
       let v2 = keys->Array.get(j)
       switch (v1, v2) {
-      | (Some(v1), Some(v2)) => if v1 + v2 <= 2020 {
+      | (Some(v1), Some(v2)) =>
+        if v1 + v2 <= 2020 {
           let v = 2020 - v1 - v2
           if keys->Js.Array2.includes(v) {
             Js.log(v1 * v2 * v)
